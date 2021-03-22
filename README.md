@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PowerfulXJ
-- 👀 I’m interested in 
+- 👀 I’m interested in eating and playing/not coding
 - 🌱 I’m currently learning linux kernel
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 xjia6@ncsu.edu
